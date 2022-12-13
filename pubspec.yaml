@@ -11,10 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_tesseract_ocr: ^0.4.20
+  path_provider: ^2.0.11
 
 dev_dependencies:
   flutter_lints: ^2.0.0
-  
+
   flutter_test:
     sdk: flutter
 
