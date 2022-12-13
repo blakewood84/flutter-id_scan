@@ -1,0 +1,16 @@
+{
+    "dart.lineLength": 120,
+    "[dart]": {
+        "editor.rulers": [
+            120
+        ],
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": true,
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnSave": true
+    },
+    "git.autoRepositoryDetection": "subFolders",
+    "git.mergeEditor": false,
+    "dart.previewFlutterUiGuides": false
+}
